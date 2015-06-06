@@ -21,10 +21,10 @@ recomendado, mediante [Scratch](https://scratch.mit.edu/) y
 ### Requerimientos de software ###
 
 Para poder usar Scratch (v2.0 online) con Arduino, es necesario
-(s2a_fm)[https://github.com/MrYsLab/s2a_fm] una extensión de Scratch para
+[s2a_fm](https://github.com/MrYsLab/s2a_fm) una extensión de Scratch para
 comunicarse con Arduino. Para generar los archivos aptos para la impresora 3D
 desde los archivos `.stl` será necesario adicionalmente un software para esta
-función, como puede ser (Slic3r)[http://slic3r.org/].
+función, como puede ser [Slic3r](http://slic3r.org/).
 
 Ver los requerimientos de mencionados programas previamente.
 
@@ -127,9 +127,9 @@ el brazo:
 -   Manual.
 
 Para conmutar entre ellos se usa el botón situado en la esquina superior
-derecha, que al ser pulsado mostrará las opciones `STEP`, `BIG STEP`, `FULL` y
-`MANUAL`. Las tres primeras son semiautomáticas, mientras que la última permite
-controlar el brazo robótico manualmente.
+derecha, que al ser pulsado mostrará las opciones **STEP**, **BIG STEP**,
+**FULL** y **MANUAL**. Las tres primeras son semiautomáticas, mientras que la
+última permite controlar el brazo robótico manualmente.
 
 En semiautomático, es tan sencillo como pulsar la flecha correspondiente al
 tramo y dirección deseado para realizar un movimiento angular de tantos grados

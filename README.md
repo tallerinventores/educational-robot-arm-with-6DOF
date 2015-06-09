@@ -171,6 +171,6 @@ Proyecto realizado por Taller de Inventores 2015, representado por:
 
 Alumnos de Centro de Formación Padre Piquer:
 
--   G, Ayman El-
+-   G, Ayman El-  
 -   S, Safaa
 
